@@ -184,6 +184,7 @@ nav ul li a img{
 }
 
 .icon img{
+    border-radius: 50%;
     margin: 20px 15px;
     width: 30px;
     height: 30px;
